@@ -21,28 +21,6 @@ A comprehensive C# console application developed as our first-year final project
 
 </div>
 
----
-
-## 📖 Table of Contents
-
-- [Project Overview](#project-overview)
-- [The Team](#the-team)
-- [Project History](#project-history)
-- [Features](#features)
-- [Technical Architecture](#technical-architecture)
-- [Installation Guide](#installation-guide)
-- [User Guide](#user-guide)
-- [Game Guides](#game-guides)
-- [Code Documentation](#code-documentation)
-- [Development Journey](#development-journey)
-- [Challenges & Solutions](#challenges--solutions)
-- [Lessons Learned](#lessons-learned)
-- [Future Enhancements](#future-enhancements)
-- [Credits & Acknowledgments](#credits--acknowledgments)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 Project Overview
 
@@ -81,10 +59,10 @@ A comprehensive C# console application developed as our first-year final project
 
 | Avatar | Name | Role | Contribution | GitHub |
 |--------|------|------|--------------|--------|
-| 👨‍💻 | **Kingly Villamor** | Lead Developer | Project architecture, Snake game, Login system, Core logic | [@kinglyvillamor](https://github.com/kinglyvillamor) |
-| 👩‍💻 | **Julliane Kaye Ignacio** | UI/UX Designer | ASCII art, Menu layouts, Visual design, Documentation | [@jullianekaye](https://github.com/jullianekaye) |
-| 👨‍💻 | **Novem Pyar Rosero** | Game Developer | Tic-Tac-Toe game, Game mechanics, Collision detection | [@novemrosero](https://github.com/novemrosero) |
-| 👨‍💻 | **John Gabriel Fuentes** | QA Engineer | Testing, Bug fixes, Input validation, Error handling | [@johngabrielfuentes](https://github.com/johngabrielfuentes) |
+| 👨‍💻 | **Kingly Villamor** | Lead Developer | Project architecture, Snake game, Login system, Core logic | 
+| 👩‍💻 | **Julliane Kaye Ignacio** | UI/UX Designer | ASCII art, Menu layouts, Visual design, Documentation | 
+| 👨‍💻 | **Novem Pyar Rosero** | Game Developer | Tic-Tac-Toe game, Game mechanics, Collision detection |
+| 👨‍💻 | **John Gabriel Fuentes** | QA Engineer | Testing, Bug fixes, Input validation, Error handling |
 
 ### Team Motto
 > *"Irregular by name, exceptional by nature."*
